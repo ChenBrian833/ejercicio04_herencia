@@ -1,0 +1,31 @@
+# Archivos compilados
+*.class
+bin/
+out/
+target/
+
+# Archivos de paquete
+*.jar
+*.war
+*.ear
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.eclipse/
+.settings/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
